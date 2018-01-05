@@ -1,0 +1,176 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         35
+	Longest value:         7 characters
+	Most common values:    None (15x)
+	                       C000059 (7x)
+	                       C001053 (7x)
+	                       P000601 (7x)
+	                       D000610 (5x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         42
+	Longest value:         31 characters
+	Most common values:    HON. KEN CALVERT (7x)
+	                       HON. TOM COLE (7x)
+	                       HON. STEVEN M. PALAZZO (7x)
+	                       OFFICE OF THE SPEAKER (5x)
+	                       HON. THEODORE E. DEUTCH (5x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (89x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (74x)
+	                       GENERAL EXPENDITURES (14x)
+	                       SUPPLIES AND MATERIALS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (89x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         38
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-30
+	Most common values:    2017-03-21 (13x)
+	                       2017-02-17 (11x)
+	                       2017-01-19 (8x)
+	                       2017-01-13 (4x)
+	                       2017-01-25 (4x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (89x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         60
+	Longest value:         8 characters
+	Most common values:    912200 (12x)
+	                       904174 (11x)
+	                       900647 (8x)
+	                       E0485078 (2x)
+	                       E0478293 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         19
+	Longest value:         33 characters
+	Most common values:    FIRST CHOICE COFFEE SERVICES (32x)
+	                       CITI PCARD-DUNKIN (12x)
+	                       COMMUNITY COFFEE COMPANY LLC (11x)
+	                       CITI PCARD-FIRST CHOICE COFFEE SE (7x)
+	                       WESTROCK COFFEE COMPANY (4x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         43
+	Smallest value:        2016-08-19
+	Largest value:         2017-03-15
+	Most common values:    2017-01-29 (12x)
+	                       2017-01-03 (10x)
+	                       2016-11-29 (8x)
+	                       2017-01-06 (5x)
+	                       2017-01-13 (4x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         41
+	Smallest value:        2016-08-19
+	Largest value:         2017-03-15
+	Most common values:    2017-02-28 (13x)
+	                       2017-01-28 (10x)
+	                       2016-12-28 (9x)
+	                       2017-01-06 (5x)
+	                       2017-01-13 (4x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         28 characters
+	Most common values:    FOOD & BEVERAGE (76x)
+	                       OFFICE SUPPLIES (OUTSIDE) (7x)
+	                       WATER (5x)
+	                       PUBLICATIONS/REFERENCE MAT'L (1x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         83
+	Smallest value:        2.64
+	Largest value:         1,150.28
+	Sum:                   11,698.2
+	Mean:                  131.44
+	Median:                80.88
+	StDev:                 174.65
+	Most common values:    7 (3x)
+	                       75 (3x)
+	                       86 (2x)
+	                       40.9 (2x)
+	                       47.85 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   179,487
+	Mean:                  2,016.708
+	Median:                2,017
+	StDev:                 0.457
+	Most common values:    2,017 (63x)
+	                       2,016 (26x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         19
+	Longest value:         33 characters
+	Most common values:    FIRST CHOICE COFFEE SERVICES (32x)
+	                       CITI PCARD-DUNKIN (12x)
+	                       COMMUNITY COFFEE COMPANY LLC (11x)
+	                       CITI PCARD-FIRST CHOICE COFFEE SE (7x)
+	                       WESTROCK COFFEE COMPANY (4x)
+
+Row count: 89
